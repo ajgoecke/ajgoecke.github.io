@@ -1,6 +1,6 @@
 ## Portfolio Landing Page 
 
-Welcome to my **Coding Portfolio**. For the actual landing page please click [here]([https://ajgoecke.github.io]). 
+Welcome to my **Coding Portfolio**. For the actual landing page please click [here](https://ajgoecke.github.io). 
 
 ### Installation
 
