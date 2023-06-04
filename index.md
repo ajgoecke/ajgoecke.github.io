@@ -2,22 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Climate Change Discourse Glossary  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+#### Semi-Automated Definition Phrasing
+**Project Description:** Lorem Ipsum ... 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Glossary Creation
+**Project Description:** Lorem Ipsum ...
 
 ---
 
-### Category Name 2
+### Text Mining Applications
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
