@@ -13,12 +13,13 @@
 ---
 
 ### Text Mining Applications
+- Sentiment Analysis (lexicon-based and machine learning based)
+- Topic Modeling 
+- Web Scraping
+- Named Entity Recognition
+- Dependency Parsing
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[comment]: <> (- [Project 1 Title](http://example.com/))
 
 ---
 
