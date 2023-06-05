@@ -7,8 +7,7 @@
 extract information from text corpora. The information pieces that were extracted were then used to build definitions of 
 German climate change compounds that are contained in the discourse glossary available [here](http://www.klimadiskurs.info).
 
-![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7723ce27-d995-4745-9432-b0d6ab0df01d)
-
+![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/5893b99a-c711-4544-b36c-dfc12dd0e04a)
 
 <!--![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)-->
 
