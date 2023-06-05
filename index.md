@@ -9,6 +9,8 @@
 extract information from text corpora. The information pieces that were extracted were then used to build definitions of 
 German climate change compounds that are contained in the discourse glossary availablue [here](http://www.klimadiskurs.info).
 
+![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)
+
 **Text Mining Tools**
 - Word Similarities
 - Sentiment Analysis
@@ -21,9 +23,7 @@ German climate change compounds that are contained in the discourse glossary ava
 - Collocations
 - Keyword-in-Context
 
-<img src="https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f"  width="500" height="470">
-
-![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)
+<!-- <img src="https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f"  width="500" height="470"> -->
 
 ---
 #### Glossary Creation
