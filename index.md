@@ -25,8 +25,8 @@ German climate change compounds that are contained in the discourse glossary ava
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Text Mining Tools</b></td>
-    <td><b style="font-size:30px">Corpus Based Methods</b></td>
+    <td><b style="font-size:20px">Text Mining Tools</b></td>
+    <td><b style="font-size:20px">Corpus Based Methods</b></td>
  </tr>
  <tr>
     <td><ul>
