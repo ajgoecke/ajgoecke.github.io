@@ -23,6 +23,27 @@ German climate change compounds that are contained in the discourse glossary ava
 - Collocations
 - Keyword-in-Context
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Text Mining Tools</b></td>
+    <td><b style="font-size:30px">Corpus Based Methods</b></td>
+ </tr>
+ <tr>
+    <td><ul>
+  <li>Word Similarities</li>
+  <li>Sentiment Analysis</li>
+  <li>Named Entity Recognition</li>
+  <li>Dependency Parsing</li>
+</ul></td>
+    <td><ul>
+  <li>Term Frequencies</li>
+  <li>TF-IDF</li>
+  <li>Collocations</li>
+  <li>Keyword-in-Context</li>
+</ul></td>
+ </tr>
+</table>
+
 <!-- <img src="https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f"  width="500" height="470"> -->
 
 ---
