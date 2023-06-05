@@ -42,6 +42,8 @@ German climate change compounds that are contained in the discourse glossary ava
 
 <!-- <img src="https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/0c716a62-78cf-42ef-aa5d-3a22ede77176"  width="500" height="470"> -->
 
+If you want to learn more about this project please see [here](https://github.com/ajgoecke/thesis/blob/main/thesis.pdf) for the paper or click on this [link](https://github.com/ajgoecke/thesis/tree/main) to get to the complete implementation on GitHub. 
+
 ---
 #### Glossary Creation
 **Project Description:** Lorem Ipsum ...
