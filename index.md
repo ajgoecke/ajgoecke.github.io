@@ -2,7 +2,7 @@
 
 ---
 
-### Semi-Automated Definition Phrasing (Master Thesis)
+### Semi-Automated Definition Phrasing
 **Project Description:** Research and implementation of multiple Text Mining tools and corpus based methods to 
 extract information from text corpora. The information pieces that were extracted were then used to build definitions of 
 German climate change compounds that are contained in the discourse glossary available [here](http://www.klimadiskurs.info).
