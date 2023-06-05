@@ -13,7 +13,6 @@ German climate change compounds that are contained in the discourse glossary ava
 
 ![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7723ce27-d995-4745-9432-b0d6ab0df01d)
 
-![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7addaac2-a1c0-4f47-9395-bd6c3e93f1dc)
 
 <!--![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)-->
 
@@ -37,6 +36,8 @@ German climate change compounds that are contained in the discourse glossary ava
 </ul></td>
  </tr>
 </table>
+
+![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7addaac2-a1c0-4f47-9395-bd6c3e93f1dc)
 
 <!-- <img src="https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f"  width="500" height="470"> -->
 
