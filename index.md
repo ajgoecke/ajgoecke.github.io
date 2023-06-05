@@ -4,8 +4,25 @@
 
 ### Climate Change Discourse Glossary  
 
-#### Semi-Automated Definition Phrasing
-**Project Description:** Lorem Ipsum ... 
+#### Semi-Automated Definition Phrasing (Master Thesis)
+**Project Description:** Research and implementation of multiple Text Mining tools and corpus based methods to 
+extract information from text corpora. The information pieces that were extracted were then used to build definitions of 
+German climate change compounds that are contained in the discourse glossary availablue [here](http://www.klimadiskurs.info).
+
+**Text Mining Tools**
+- Word Similarities
+- Sentiment Analysis
+- Named Entity Recognition
+- Dependency Parsing
+
+**Corpus Based Methods**
+- Term Frequencies
+- TF-IDF
+- Collocations
+- Keyword-in-Context
+
+![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)
+
 ---
 #### Glossary Creation
 **Project Description:** Lorem Ipsum ...
@@ -15,7 +32,6 @@
 ### Text Mining Applications
 - Sentiment Analysis (lexicon-based and machine learning based)
 - Topic Modeling 
-- Web Scraping
 - Named Entity Recognition
 - Dependency Parsing
 
