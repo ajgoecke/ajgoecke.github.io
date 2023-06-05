@@ -21,6 +21,8 @@ German climate change compounds that are contained in the discourse glossary ava
 - Collocations
 - Keyword-in-Context
 
+<img src="https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f"  width="600" height="300">
+
 ![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)
 
 ---
