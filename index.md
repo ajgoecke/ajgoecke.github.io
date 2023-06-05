@@ -13,6 +13,8 @@ German climate change compounds that are contained in the discourse glossary ava
 
 ![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7723ce27-d995-4745-9432-b0d6ab0df01d)
 
+![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7addaac2-a1c0-4f47-9395-bd6c3e93f1dc)
+
 <!--![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)-->
 
 <table border="0">
@@ -38,29 +40,25 @@ German climate change compounds that are contained in the discourse glossary ava
 
 <!-- <img src="https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f"  width="500" height="470"> -->
 
-![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7addaac2-a1c0-4f47-9395-bd6c3e93f1dc)
 
 <!-- <img src="https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/0c716a62-78cf-42ef-aa5d-3a22ede77176"  width="500" height="470"> -->
 
 If you want to learn more about this project please see [here](https://github.com/ajgoecke/thesis/blob/main/thesis.pdf) for the paper or click on this [link](https://github.com/ajgoecke/thesis/tree/main) to get to the complete implementation on GitHub. 
 
 ---
-#### Glossary Creation
-**Project Description:** Lorem Ipsum ...
 
----
-
-### Text Mining Applications
+### Programming Experience
 - Sentiment Analysis (lexicon-based and machine learning based)
 - Topic Modeling 
 - Named Entity Recognition
 - Dependency Parsing
+- Part-of-Speech Tagging
+- Word Similarities
+- TF-IDF
+- Keyword-in-Context
+- Web Scraping
 
 [comment]: <> (- [Project 1 Title](http://example.com/))
-
----
-
-
 
 
 ---
