@@ -13,26 +13,12 @@ German climate change compounds that are contained in the discourse glossary ava
 
 ![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7723ce27-d995-4745-9432-b0d6ab0df01d)
 
-
-
 <!--![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)-->
-
-**Text Mining Tools**
-- Word Similarities
-- Sentiment Analysis
-- Named Entity Recognition
-- Dependency Parsing
-
-**Corpus Based Methods**
-- Term Frequencies
-- TF-IDF
-- Collocations
-- Keyword-in-Context
 
 <table border="0">
  <tr>
-    <td><b style="font-size:20px">Text Mining Tools</b></td>
-    <td><b style="font-size:20px">Corpus Based Methods</b></td>
+    <td><b style="font-size:15px">Text Mining Tools</b></td>
+    <td><b style="font-size:15px">Corpus Based Methods</b></td>
  </tr>
  <tr>
     <td><ul>
