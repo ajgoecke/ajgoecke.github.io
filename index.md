@@ -4,14 +4,18 @@
 
 ### Climate Change Discourse Glossary  
 
-![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/43bbc09a-cc66-4b10-bf56-39adb88fde35)
+<!--![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/43bbc09a-cc66-4b10-bf56-39adb88fde35)-->
 
 #### Semi-Automated Definition Phrasing (Master Thesis)
 **Project Description:** Research and implementation of multiple Text Mining tools and corpus based methods to 
 extract information from text corpora. The information pieces that were extracted were then used to build definitions of 
 German climate change compounds that are contained in the discourse glossary available [here](http://www.klimadiskurs.info).
 
-![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)
+![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/7723ce27-d995-4745-9432-b0d6ab0df01d)
+
+
+
+<!--![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c560981e-f1ab-48cd-a43c-844c358e239f)-->
 
 **Text Mining Tools**
 - Word Similarities
