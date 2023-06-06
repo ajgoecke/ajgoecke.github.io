@@ -1,16 +1,16 @@
-title: Anna-Janina Goecke # your name (or website title) here
+title: Anna Goecke # your name (or website title) here
 logo: "/images/profile_pic_round.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  NLP Engineer and Researcher <br />
-  <br />
+  NLP Researcher and Engineer
+  <br><br>
   About Me <br />
   Graduate of MSc. Cognitive Systems with experience in software development for NLP tasks and (text) data analysis. 
   My most recent project is the implementation of NLP tools to generate definition texts for a discourse glossary.<br />
   
-  <!-- <a href="https://www.linkedin.com/in/ajgoecke/">View My LinkedIn Profile</a> <br /> -->
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
-- remote_theme: pages-themes/minimal@v0.2.0
-
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-# your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
