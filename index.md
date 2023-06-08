@@ -41,6 +41,8 @@ If you want to learn more about this project please see [here](https://github.co
 ### More Projects
 **Topic Modeling** for Verbi Software (Maxqda), see [here](https://www.maxqda.com/help-mx22-dictio/topic-modeling).
 
+![lda_abstracts](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/c391b5c3-0b43-4e01-86bb-1aac86273b50)
+
 ![image](https://github.com/ajgoecke/ajgoecke.github.io/assets/59655309/24caba56-45b7-49bb-85a7-9fd65d8c28e3)
 
 **Sentiment Analysis** for Verbi Software (Maxqda), see [here](https://www.maxqda.com/help-mx20/analyze-tweets-surveys/analyze-sentiments-of-tweets).
